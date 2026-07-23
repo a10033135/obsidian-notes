@@ -2,5 +2,6 @@
   "accentColor": "#5c6ef5",
   "cssTheme": "Minimal",
   "translucency": false,
-  "baseFontSize": 20
+  "baseFontSize": 20,
+  "showRibbon": true
 }
